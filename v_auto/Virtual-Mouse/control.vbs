@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\Users\USER\OneDrive\Desktop\v_auto\Virtual-Mouse\control.bat", 0 , True
